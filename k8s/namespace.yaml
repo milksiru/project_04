@@ -1,0 +1,6 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: project-04-vpa
+  labels:
+    app.kubernetes.io/name: project-04-vpa
